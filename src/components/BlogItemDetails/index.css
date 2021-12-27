@@ -1,1 +1,18 @@
 /* Write your CSS code here */
+.avatarImg {
+  width: 40px;
+  border-radius: 20px;
+}
+.mainImg {
+  width: 250px;
+  border-radius: 10px;
+}
+.headingMain {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: #000000;
+}
+.authorPara {
+  color: #8e8e8e;
+  font-family: 'Roboto';
+}
